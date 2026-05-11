@@ -25,7 +25,7 @@ This project simulates a real-world banking environment through a Command-Line I
 
 2.Open the project in your preferred IDE (VS Code, CLion, or Visual Studio).
 
-3. Compile the main source file.
+3.Compile the main source file.
 
 4.Login using the default credentials:
 
