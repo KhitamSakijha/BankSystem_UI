@@ -27,9 +27,13 @@ This project simulates a real-world banking environment through a Command-Line I
 
 3. Compile the main source file.
 
-4.Login using the default credentials (e.g., Admin / 1234).
+4.Login using the default credentials:
 
-##🧠Key Takeaways
+Username: khitam
+
+Password: 1234
+
+## 🧠Key Takeaways
 Designed a modular architecture using Classes to ensure code maintainability and scalability.
 
 Applied Security Best Practices by implementing logic-level encryption.
